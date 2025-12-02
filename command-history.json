@@ -1,0 +1,5 @@
+[
+  {"commandType":"LightOn","deviceId":"livingroom-light","params":{},"timestamp":1670000000000},
+  {"commandType":"TVSetChannel","deviceId":"livingroom-tv","params":{"channel":5},"timestamp":1670000001000},
+  {"commandType":"CeilingFanSetSpeed","deviceId":"bedroom-fan","params":{"speed":"HIGH"},"timestamp":1670000002000}
+]
