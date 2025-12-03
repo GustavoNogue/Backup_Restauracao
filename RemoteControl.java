@@ -1,3 +1,5 @@
+import java.io.IOException;
+
 public class RemoteControl {
     private CommandHistory history;
     // slots, etc.

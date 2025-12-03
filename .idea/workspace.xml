@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a6055d2-6796-4909-a1ee-8a8dbf13e439" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CommandHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/CommandHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotTubSetTemeratureCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecoverySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecoverySystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SerializableCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/SerializableCommand.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="36JQF9wL9ntIKf4WuaeUmUmmCmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Backup_Restauracao"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a6055d2-6796-4909-a1ee-8a8dbf13e439" name="Changes" comment="" />
+      <created>1764722088761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764722088761</updated>
+    </task>
+    <servers />
+  </component>
+</project>
